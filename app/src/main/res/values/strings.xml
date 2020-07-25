@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="newtask_btn_text">New Task</string>
+    <string name="btn_clear_tasks">Clear Tasks</string>
+</resources>
